@@ -20,7 +20,7 @@
 [bevy::blog::0.14]: https://bevyengine.org/news/bevy-0-14
 [bevy::blog::0.6]: https://bevyengine.org/news/bevy-0-6
 [bevy::blog::0.9]: https://bevyengine.org/news/bevy-0-9
-[bevy::contributing]: https://github.com/bevyengine/bevy/blob/main/CONTRIBUTING.md
+[bevy::contributing]: https://bevyengine.org/learn/contribute/introduction/
 [bevy::discord]: https://discord.gg/bevy
 [bevy::examples]: https://github.com/bevyengine/bevy/tree/latest/examples#examples
 [bevy::getting-started]: https://bevyengine.org/learn/book/getting-started/setup/
